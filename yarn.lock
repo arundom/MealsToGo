@@ -2838,7 +2838,7 @@ expo-file-system@~18.1.10:
   resolved "https://registry.yarnpkg.com/expo-file-system/-/expo-file-system-18.1.10.tgz#22f3bcc2c9a7edcd6bba5ece3c90a8467fda47be"
   integrity sha512-SyaWg+HitScLuyEeSG9gMSDT0hIxbM9jiZjSBP9l9zMnwZjmQwsusE6+7qGiddxJzdOhTP4YGUfvEzeeS0YL3Q==
 
-expo-font@~13.3.1:
+expo-font@*, expo-font@~13.3.1:
   version "13.3.1"
   resolved "https://registry.yarnpkg.com/expo-font/-/expo-font-13.3.1.tgz#ed69ae14f263a4c447efb2615b60d9e045372e68"
   integrity sha512-d+xrHYvSM9WB42wj8vP9OOFWyxed5R1evphfDb6zYBmC1dA9Hf89FpT7TNFtj2Bk3clTnpmVqQTCYbbA2P3CLg==
@@ -4484,6 +4484,11 @@ react-is@^19.1.0:
   version "19.1.0"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-19.1.0.tgz#805bce321546b7e14c084989c77022351bbdd11b"
   integrity sha512-Oe56aUPnkHyyDxxkvqtd7KkdQP5uIUfHxd5XTb3wE9d/kRnZLmKbDB0GWk919tdQ+mxxPtG6EAs6RMT6i1qtHg==
+
+react-native-clean-project@^4.0.3:
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/react-native-clean-project/-/react-native-clean-project-4.0.3.tgz#7ea174d2cb789e0c1d24defbeba561fcbf1beb9e"
+  integrity sha512-tWNhac5R4BetY7sZSRgaWUDSMpT207nJRuUwMZInmYJR3HucMZGIIUaiDH/pbFxXSDq4GMj4P7FnHxGLDobJ8w==
 
 react-native-edge-to-edge@1.6.0:
   version "1.6.0"
